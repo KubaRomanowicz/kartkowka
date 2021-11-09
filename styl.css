@@ -1,0 +1,214 @@
+body {
+    background-color: rgb(134, 163, 170);
+    margin: 0%;
+    padding: 0%;
+}
+
+header {
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#wyszukiwanie {
+    padding: 8px;
+    width: 600px;
+    border-radius: 5px;
+}
+
+#login {
+    border-color: rgb(0, 132, 255);
+    background-color: white;
+    border-radius: 50px;
+    padding: 6px;
+    width: 100px;
+    color:rgb(0, 132, 255);
+    border-width: 1px;
+    margin-right: 10px;
+}
+
+#signup {
+    border-color: rgb(0, 132, 255);
+    background-color: rgb(0, 132, 255);
+    border-radius: 50px;
+    padding: 6px;
+    width: 100px;
+    color: white;
+    border-width: 1px;
+    margin-right: 30px;
+}
+
+#pierwsze {
+    border-radius: 10px;
+    margin-left: 550px;
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+
+#drugie {
+    border-radius: 10px;
+    float: left;
+    margin-left: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+#trzecie {
+    border-radius: 10px;
+    float: left;
+    margin-left: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+#czwarte {
+    border-radius: 10px;
+    float: left;
+    margin-left: 10px;
+    width: 200px;
+    height: 200px;
+    margin-right: 500px;
+}
+h1 {
+    margin-left: 550px;
+    font-size: small;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(43, 42, 42);
+}
+
+h2 {
+    margin-left: 550px;
+    font-size: small;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+    margin-top: 200px;
+    color: rgb(43, 42, 42);
+}
+
+main {
+    border-left-width: 1px;
+    border-left-style: solid;
+    border-left-color: grey;
+}
+
+#tekst1 {
+    position: absolute;
+    left: 650px;
+    bottom: 700px;
+    color: white;
+}
+
+#tekst2 {
+    position: absolute;
+    left: 850px;
+    bottom: 700px;
+    color: white;
+}
+
+#tekst3 {
+    position: absolute;
+    left: 1050px;
+    bottom: 700px;
+    color: white;
+}
+
+#tekst4 {
+    position: absolute;
+    left: 1270px;
+    bottom: 700px;
+    color: white;
+}
+
+.blok1 {
+    border: solid 1px rgb(187, 187, 187);
+    width: 500px;
+    height: 50px;
+    margin-left: 550px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+#hot {
+    background-color: rgb(243, 243, 243);
+    width: 40px;
+    height: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 30px;
+    text-align: center;
+    line-height: 30px;
+    float: left;
+    color: rgb(0, 132, 255);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#poland {
+    background-color: rgb(243, 243, 243);
+    width: 70px;
+    height: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 30px;
+    text-align: center;
+    line-height: 30px;
+    float: left;
+    color: rgb(0, 132, 255);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#new {
+    color: rgb(129, 129, 129);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: left;
+    margin-left: 10px;
+}
+
+#top {
+    color: rgb(129, 129, 129);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: left;
+    margin-left: 10px;
+}
+
+.blok2 {
+    border: solid 1px rgb(187, 187, 187);
+    width: 500px;
+    height: 400px;
+    margin-left: 550px;
+    border-radius: 5px;
+    background-color: white;
+    margin-top: 20px ;
+}
+
+#hej {
+    width: 450px;
+    margin-left: 51px;
+    margin-top: 10px;
+    height: 300px ;
+}
+
+#rpolska {
+    color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 10px;
+    margin-left: 50px;
+    float: left;
+}
+
+#cos {
+    color: grey;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 10px;
+    float: left;
+    margin-left: 10px;
+}
+
+#banknot{
+    margin-left: 0px;
+    margin-top: 40px ;
+    margin-left: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
